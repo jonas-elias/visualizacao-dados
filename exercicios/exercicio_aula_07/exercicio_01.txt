@@ -1,0 +1,3 @@
+Em Python, os dicionários são coleções de pares chave-valor, enquanto os conjuntos são coleções de elementos
+únicos e não ordenados. Portanto, a principal diferença entre conjuntos e dicionários é que os conjuntos
+não permitem duplicatas, enquanto os dicionários permitem que uma chave tenha vários valores associados a ela.

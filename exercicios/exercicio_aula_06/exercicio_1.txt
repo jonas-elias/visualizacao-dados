@@ -1,0 +1,10 @@
+As listas e tuplas são tipos de sequência em Python, mas possuem diferenças importantes em suas características e uso
+adequado para cada tipo de problemática.
+
+A principal diferença entre elas é que as listas são mutáveis, ou seja, seus valores podem ser alterados ao longo de
+sua vida útil como variável. Por outro lado, as tuplas são imutáveis, mantendo o valor inicial do elemento
+adicionado e garantindo a integridade e não violação dos dados.
+
+Assim, as listas são frequentemente usadas quando precisamos armazenar dados que podem ser alterados
+durante a execução do programa, enquanto as tuplas são usadas para armazenar dados que não devem ser modificados,
+como informações de datas ou coordenadas geográficas.
