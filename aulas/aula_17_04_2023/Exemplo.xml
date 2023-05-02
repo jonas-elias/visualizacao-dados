@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata dataCriacao="20/11/2050">
+<food>
+  <item> Bacon </item>
+  <preco> R$ 15,89 </preco>
+  <descricao> Melhor comida! </descricao>
+</food>
+
+<food>
+  <item> Milshake de Bacon </item>
+  <preco> R$30,00 </preco>
+  <descricao> Iguaria das melhores </descricao>
+</food>
+</metadata>
